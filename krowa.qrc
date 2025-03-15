@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/zdj">
+        <file>zdj.jpg</file>
+    </qresource>
+</RCC>
